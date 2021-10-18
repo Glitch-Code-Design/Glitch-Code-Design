@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Glitch-Code-Design a self taught student, looking to one day find a job in the industry
+- 👀 I’m interested in Website Design & Development
+- 🌱 I’m currently learning Everything, from HTML & CSS to JavaScript
+- 💞️ I’m looking to collaborate on anything related to Web Design & Development
+- :computer: I'm currently working on various websites to add to my Portfolio 
+- 📫 How to reach me : You can reach me at glitchcodedesign7@gmail.com
+- :scroll: Favorite quote "If you have a dream, don’t wait. Act. One of life’s little rules" - Axel/Lea, Kingdom Hearts 
