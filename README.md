@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glitch-Code-Design a self taught student, looking to one day find a job in the industry
+- 👋 Hi, I’m @Glitch-Code-Design a self taught student, with a passion for Web Design 
 - 👀 I’m interested in Website Design & Development
 - 🌱 I’m currently learning Everything, from HTML & CSS to JavaScript
 - 💞️ I’m looking to collaborate on anything related to Web Design & Development
